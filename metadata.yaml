@@ -1,0 +1,28 @@
+_repo: Introducing-the-American-Spirit_41898
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41898-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Steiner, Edward Alfred
+    alias: Steiner, Edward A.
+    birthdate: 1866
+    deathdate: 1956
+    gutenberg_agent_id: '40878'
+    url: http://www.gutenberg.org/2009/agents/40878
+description: ''
+gutenberg_issued: '2013-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, American'
+- !lcc 'E151'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+title: Introducing the American Spirit
+url: http://www.gutenberg.org/ebooks/41898
